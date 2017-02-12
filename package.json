@@ -1,0 +1,12 @@
+{
+  "name": "sjshanghai",
+  "description": "sjshanghai",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node sjshanghai.js"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest"
+  }
+}
